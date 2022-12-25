@@ -1,0 +1,51 @@
+@media screen and (min-width : 550px) and (max-width : 1050px) {
+    .c1 {
+        position: fixed;
+        margin: auto;
+        border: 0px solid #003476;
+        padding: 50px;
+        background-color: #003476;
+        width: 900px;
+    }
+
+    .c2 {
+        position: fixed;
+        margin-top: 100px;
+        padding: 50px;
+        background-color: #0062D2;
+        width: 500px;
+    }
+
+    .c3 {
+        position: fixed;
+        margin-left: 500px;
+        margin-top: 100px;
+        padding: 50px;
+        background-color: #B4D2F7;
+        width: 400px;
+    }
+
+    .c4 {
+        position: fixed;
+        margin-top: 200px;
+        padding: 50px;
+        background-color: #D5DFEF;
+        width: 400px;
+    }
+
+    .c5 {
+        position: fixed;
+        margin-left: 500px;
+        margin-top: 200px;
+        padding: 50px;
+        background-color: #DFE1E5;
+        width: 400px;
+    }
+}
+@media screen and (min-width : 1049px) and (max-width : 1150px) 
+{
+    body
+    {
+        display: none;
+    }
+}

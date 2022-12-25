@@ -1,0 +1,48 @@
+@media screen and (min-width : 1050px) {
+    .c1 {
+        position: fixed;
+        border: 1px;
+        padding: 100px;
+        background-color: #003476;
+        width: 700px;
+    }
+
+    .c2 {
+        position: fixed;
+        border: 1px;
+        padding: 100px;
+        background-color: #0062D2;
+        margin-left: 900px;
+        width: 420px;
+    }
+
+    .c3 {
+        position: fixed;
+        margin-top: 200px;
+        border: 1px;
+        padding: 100px;
+        background-color: #B4D2F7;
+        width: 300px;
+    }
+
+    .c4 {
+        position: fixed;
+        margin-top: 200px;
+        margin-left: 500px;
+        border: 1px;
+        padding: 100px;
+        background-color: #D5DFEF;
+        width: 320px;
+    }
+
+    .c5 {
+        position: fixed;
+        margin-top: 200px;
+        margin-left: 1020px;
+        border: 1px;
+        padding: 100px;
+        background-color: #DFE1E5;
+        width: 300px;
+    }
+
+}
